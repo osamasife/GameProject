@@ -1,0 +1,46 @@
+body{
+  background-color: rgb(113, 43, 226);
+}
+
+#game{
+  background-color: rgb(218, 215, 215);
+  border: solid thin black  ;
+  width: 450px;
+  margin-left: 39%;
+  padding: 15px;
+}
+
+
+#text{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: solid thin black;
+}
+#stats{
+  border: solid thin black;
+  padding: 5px;
+}
+#buttons{
+  border: solid thin black;
+  padding: 5px;
+  
+}
+#stat{
+  margin-right: 10px;
+  
+  
+}
+#monsterStats{
+  display: none;
+  border: solid thin black;
+  padding: 5px;
+  background-color: red;
+}
+
+
+
+
+
+
+
